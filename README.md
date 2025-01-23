@@ -42,8 +42,8 @@ npm install
 
 npm run dev
 ```
-##Screenshots
-#Homepage
+## Screenshots
+# Homepage
 ![local_explorer png](https://github.com/user-attachments/assets/3d10cb04-253a-417b-a4f7-dbb6f61fc914)
 
 
