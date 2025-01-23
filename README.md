@@ -13,11 +13,12 @@ Local Explorer is a sophisticated web application designed to recommend personal
 - **FastAPI**: Handles server-side logic, user authentication, and API endpoints.
 - **LangChain**: Orchestrates AI-powered functionality using Gemini for activity suggestions.
 - **MongoDB**: Stores user profiles and interaction history.
+- - **Google Maps API**: Fetches interactive maps and activity locations.
+- **Weather API**: Fetches real-time weather data to tailor suggestions.
 
 ### Frontend
 - **Next.js**: Builds the user interface with server-side rendering for optimal performance and SEO.
-- **Google Maps API**: Displays interactive maps and activity locations.
-- **Weather API**: Fetches real-time weather data to tailor suggestions.
+
 
 ## Installation and Setup
 
